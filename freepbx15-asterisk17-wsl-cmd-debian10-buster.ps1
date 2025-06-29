@@ -1,0 +1,1 @@
+wsl.exe --import asterisk17 D:\linux\asterisk17 D:\linux\freepbx15-asterisk17.tar --version 2
