@@ -37,7 +37,7 @@ wsl --import debian12 "C:\WSL2-Distros\debian12" debian12.tar
 wsl -d debian12
 
 wsl -s debian12
-
+ls
 wsl --unregister debian12
 ```
 
