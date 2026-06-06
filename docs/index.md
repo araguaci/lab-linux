@@ -10,31 +10,31 @@ Bem-vindo à documentação técnica do **Lab Linux**. Aqui você encontrará gu
 
 ## 🗂️ Categorias
 
-### 🪟 [WSL & Windows + Linux](wsl/)
+### 🪟 [WSL & Windows + Linux](wsl/index.html)
 Windows Subsystem for Linux: instalação de distros, GUI, systemd e customização.
 
-### 🐧 [Linux](linux/)
+### 🐧 [Linux](linux/index.html)
 Comandos, ferramentas e configurações essenciais do Linux.
 
-### 🐳 [Docker](docker/)
+### 🐳 [Docker](docker/index.html)
 Containerização, composição e orquestração com Docker.
 
-### 🥏 [Raspberry Pi](raspberry-pi/)
+### 🥏 [Raspberry Pi](raspberry-pi/index.html)
 Configuração e projetos em Raspberry Pi.
 
-### 🌐 [Networking](networking/)
+### 🌐 [Networking](networking/index.html)
 Redes, DNS, VPN, firewall e configurações de rede.
 
-### 📊 [Monitoring](monitoring/)
+### 📊 [Monitoring](monitoring/index.html)
 Monitoramento de sistemas, logs e observabilidade.
 
-### 📞 [VoIP](voip/)
+### 📞 [VoIP](voip/index.html)
 Sistemas de voz sobre IP e comunicação.
 
-### 🔒 [Security](security/)
+### 🔒 [Security](security/index.html)
 Segurança, criptografia e hardening de sistemas.
 
-### 📖 [Referências](references/)
+### 📖 [Referências](references/index.html)
 Documentação de referência rápida e ferramentas.
 
 ---

@@ -74,13 +74,12 @@ cp starship.toml ~/.config/starship.toml
 | Documento | Descrição |
 |-----------|-----------|
 | [index.md](index.md) | Página inicial e navegação |
-| [docker-commands.md](docker-commands.md) | Referência de comandos Docker |
-| [docker2wsl.md](docker2wsl.md) | Integração Docker com WSL2 |
-| [ubuntu-commands.md](ubuntu-commands.md) | Guia Ubuntu |
-| [debian-commands.md](debian-commands.md) | Guia Debian |
-| [rockylinux-on-wsl.md](rockylinux-on-wsl.md) | Rocky Linux no WSL |
-| [wsl-systemd.md](wsl-systemd.md) | Systemd no WSL |
-| [starship.toml](starship.toml) | Configuração de prompt Starship |
+| [docker-commands.md](../docker/docker-commands.md) | Referência de comandos Docker |
+| [docker2wsl.md](../docker/docker2wsl.md) | Integração Docker com WSL2 |
+| [ubuntu-commands.md](../linux/ubuntu-commands.md) | Guia Ubuntu |
+| [debian-commands.md](../linux/debian-commands.md) | Guia Debian |
+| [rocky-linux-wsl2.md](../wsl/rocky-linux-wsl2.md) | Rocky Linux no WSL |
+| [wsl-systemd.md](../wsl/wsl-systemd.md) | Systemd no WSL |
 
 ## 🛠️ Como usar este repositório
 
