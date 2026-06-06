@@ -10,6 +10,9 @@ Bem-vindo à documentação técnica do **Lab Linux**. Aqui você encontrará gu
 
 ## 🗂️ Categorias
 
+### 📚 [Overview](overview/index.html)
+Visão geral do projeto, guias rápidos e documentação.
+
 ### 🪟 [WSL & Windows + Linux](wsl/index.html)
 Windows Subsystem for Linux: instalação de distros, GUI, systemd e customização.
 

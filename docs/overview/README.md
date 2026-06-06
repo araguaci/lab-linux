@@ -133,7 +133,7 @@ bundle exec jekyll serve
 
 ## 📝 Licença
 
-Este projeto está disponível sob a licença MIT. Veja [LICENSE](LICENSE) para detalhes.
+Este projeto está disponível sob a licença MIT.
 
 ## 💬 Suporte & Contato
 
