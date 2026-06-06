@@ -9,35 +9,23 @@ plugins:
 markdown: kramdown
 permalink: /:categories/:title/
 
-# Diretório de documentação reorganizado
+# Diretório de documentação
 source: .
-collections_dir: docs
-include:
-  - _config.yml
 
-# Coleções para cada categoria
-collections:
-  docker:
-    output: true
-    permalink: /docker/:name/
-  linux:
-    output: true
-    permalink: /linux/:name/
-  wsl:
-    output: true
-    permalink: /wsl/:name/
-  raspberry-pi:
-    output: true
-    permalink: /raspberry-pi/:name/
-  networking:
-    output: true
-    permalink: /networking/:name/
-  monitoring:
-    output: true
-    permalink: /monitoring/:name/
-  voip:
-    output: true
-    permalink: /voip/:name/
-  security:
-    output: true
-    permalink: /security/:name/
+# Página de índice customizada
+defaults:
+  - scope:
+      path: "docs"
+    values:
+      layout: default
+
+# Front matter defaults para posts
+front_matter_defaults:
+  - scope:
+      path: "docs/**"
+    values:
+      layout: default
+
+# Incluir arquivos markdown
+include:
+  - docs

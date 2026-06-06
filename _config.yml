@@ -1,0 +1,89 @@
+title: Lab Linux
+description: Documentação completa sobre Linux, Docker, WSL e infraestrutura
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Configurações adicionais
+markdown: kramdown
+source: .
+baseurl: /lab-linux
+
+# Defaults for all markdown files
+defaults:
+  - scope:
+      path: "docs"
+    values:
+      layout: default
+  - scope:
+      path: "docs/index.md"
+    values:
+      layout: default
+      permalink: /docs/
+  - scope:
+      path: "docs/overview/index.md"
+    values:
+      layout: default
+      permalink: /docs/overview/
+  - scope:
+      path: "docs/wsl/index.md"
+    values:
+      layout: default
+      permalink: /docs/wsl/
+  - scope:
+      path: "docs/linux/index.md"
+    values:
+      layout: default
+      permalink: /docs/linux/
+  - scope:
+      path: "docs/docker/index.md"
+    values:
+      layout: default
+      permalink: /docs/docker/
+  - scope:
+      path: "docs/networking/index.md"
+    values:
+      layout: default
+      permalink: /docs/networking/
+  - scope:
+      path: "docs/monitoring/index.md"
+    values:
+      layout: default
+      permalink: /docs/monitoring/
+  - scope:
+      path: "docs/raspberry-pi/index.md"
+    values:
+      layout: default
+      permalink: /docs/raspberry-pi/
+  - scope:
+      path: "docs/voip/index.md"
+    values:
+      layout: default
+      permalink: /docs/voip/
+  - scope:
+      path: "docs/security/index.md"
+    values:
+      layout: default
+      permalink: /docs/security/
+  - scope:
+      path: "docs/references/index.md"
+    values:
+      layout: default
+      permalink: /docs/references/
+
+# Incluir arquivos markdown
+include:
+  - docs
+
+# Excluir arquivos desnecessários
+exclude:
+  - .git
+  - .gitignore
+  - .nojekyll
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - STRUCTURE.md
+  - configs
+  - vendor
