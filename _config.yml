@@ -7,10 +7,8 @@ plugins:
 
 # Configurações adicionais
 markdown: kramdown
-permalink: /:categories/:title/
-
-# Diretório de documentação
 source: .
+baseurl: /lab-linux
 
 # Página de índice customizada
 defaults:
@@ -18,6 +16,7 @@ defaults:
       path: "docs"
     values:
       layout: default
+      permalink: /:path/
 
 # Front matter defaults para posts
 front_matter_defaults:
@@ -25,7 +24,19 @@ front_matter_defaults:
       path: "docs/**"
     values:
       layout: default
+      permalink: /:path/
 
 # Incluir arquivos markdown
 include:
   - docs
+
+# Excluir arquivos desnecessários
+exclude:
+  - .git
+  - .gitignore
+  - .nojekyll
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - STRUCTURE.md
+  - configs
