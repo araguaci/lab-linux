@@ -1,0 +1,10 @@
+title: Lab Linux
+description: Documentação completa sobre Linux, Docker, WSL e infraestrutura
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Configurações adicionais
+markdown: kramdown
+permalink: /:title/
