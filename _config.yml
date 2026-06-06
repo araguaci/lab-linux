@@ -40,3 +40,4 @@ exclude:
   - README.md
   - STRUCTURE.md
   - configs
+  - vendor
