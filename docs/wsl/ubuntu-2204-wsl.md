@@ -1,4 +1,11 @@
 
+---
+title: Ubuntu 22.04 WSL
+description: Guia para instalar Ubuntu 22.04 no WSL
+category: wsl
+tags: [ubuntu, wsl, 22.04, installation, linux]
+---
+
 [](https://cloud-images.ubuntu.com/)
 
 * * *

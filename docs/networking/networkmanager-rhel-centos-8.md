@@ -1,3 +1,10 @@
+---
+title: NetworkManager RHEL CentOS 8
+description: Gerenciamento de rede com NetworkManager em RHEL/CentOS 8
+category: networking
+tags: [networkmanager, rhel, centos, networking, administration]
+---
+
 # RHEL/CentOS 8 で NetworkManager を使用してネットワークを管理する方法
 
 Source: [https://linux-jp.org/?p=1367](https://linux-jp.org/?p=1367)

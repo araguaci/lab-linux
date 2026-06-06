@@ -1,3 +1,10 @@
+---
+title: Microsoft Packages Repository
+description: Repositório oficial de pacotes Microsoft
+category: references
+tags: [microsoft, packages, repository, reference]
+---
+
 Index of /
 
 Welcome to packages.microsoft.com

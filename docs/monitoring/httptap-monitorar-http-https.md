@@ -1,4 +1,11 @@
-# Httptap – Monitoriza Todas as Ligações HTTP e HTTPS de Qualquer Aplicação Linux – HomeServer.pt – Informática e Tecnologia
+---
+title: HTTPTap HTTP HTTPS Monitoring
+description: Monitoramento de conexões HTTP e HTTPS em aplicações Linux
+category: monitoring
+tags: [httptap, monitoring, http, https, traffic-analysis]
+---
+
+# HTTPTap – Monitoriza Conexões HTTP e HTTPS
 
 By Home Server
 

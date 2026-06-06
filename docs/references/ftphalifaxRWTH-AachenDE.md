@@ -1,3 +1,10 @@
+---
+title: FTP Halifax RWTH Aachen
+description: Referência para FTP Halifax da Universidade RWTH Aachen
+category: references
+tags: [ftp, repository, mirror, reference, linux]
+---
+
 # ftp.halifax.RWTH-Aachen.DE
 
 Source: [https://ftp.halifax.rwth-aachen.de/](https://ftp.halifax.rwth-aachen.de/)

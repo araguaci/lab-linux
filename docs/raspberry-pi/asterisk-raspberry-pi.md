@@ -1,3 +1,10 @@
+---
+title: Asterisk Raspberry Pi
+description: Guia para instalação e configuração de Asterisk no Raspberry Pi
+category: raspberry-pi
+tags: [asterisk, voip, pbx, raspberry-pi, telephony]
+---
+
 # How to Install Asterisk on a Raspberry Pi?
 
 By Patrick Fromaget

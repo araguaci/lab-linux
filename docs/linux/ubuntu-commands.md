@@ -1,4 +1,11 @@
 
+---
+title: Ubuntu Commands
+description: Guia completo de comandos essenciais para sistemas Ubuntu
+category: linux
+tags: [ubuntu, linux, commands, administration]
+---
+
 # Ubuntu Commands
 
 - 1

@@ -1,4 +1,11 @@
 
+---
+title: Debian Commands
+description: Guia completo de comandos essenciais para sistemas Debian
+category: linux
+tags: [debian, linux, commands, administration]
+---
+
 # Debian Commands
 
 - 1

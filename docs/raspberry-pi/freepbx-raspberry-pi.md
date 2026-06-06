@@ -1,3 +1,10 @@
+---
+title: FreePBX Raspberry Pi
+description: Instalação e configuração de FreePBX no Raspberry Pi
+category: raspberry-pi
+tags: [freepbx, voip, asterisk, pbx, raspberry-pi]
+---
+
 # FreePBX and Raspberry Pi
 
 Source: [https://pbxbook.com/voip/raspbxmac.html](https://pbxbook.com/voip/raspbxmac.html)

@@ -1,3 +1,10 @@
+---
+title: Manual WSL2 Distributions
+description: Guia para instalação manual de distribuições WSL2
+category: wsl
+tags: [wsl2, distributions, manual-installation, linux]
+---
+
 # Manually installing WSL2 distributions
 
 By Miro

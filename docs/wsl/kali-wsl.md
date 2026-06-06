@@ -1,3 +1,10 @@
+---
+title: Kali WSL
+description: Documentação oficial do Kali Linux para WSL
+category: wsl
+tags: [kali, wsl, linux, security, pentesting]
+---
+
 # Kali WSL | Kali Linux Documentation
 
 Source: [https://www.kali.org/docs/wsl/wsl-preparations/](https://www.kali.org/docs/wsl/wsl-preparations/)

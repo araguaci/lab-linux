@@ -1,3 +1,10 @@
+---
+title: Lab Linux Overview
+description: Documentação completa sobre Linux, Docker, WSL e infraestrutura
+category: overview
+tags: [overview, documentation, linux, docker, wsl, infrastructure]
+---
+
 # Lab Linux 🐧
 
 Documentação completa e centralizada sobre **Linux, Docker, WSL e Infraestrutura**. Um repositório com tutoriais, guias práticos e scripts para desenvolvedores e administradores de sistemas.

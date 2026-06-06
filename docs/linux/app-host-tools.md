@@ -1,3 +1,10 @@
+---
+title: App Host Tools
+description: Ferramentas para hospedagem e gerenciamento de aplicações
+category: linux
+tags: [hosting, applications, cloudron, arm64, alternatives]
+---
+
 [![alternativeto.net/softwa...](https://images.openai.com/thumbnails/url/qXFHi3icu1mSUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw7KL_CxNDe3LE5PLjQwcSsJdElKzfHwsQgMLEn0Lw4JSTGoCnY2NA4ui6xwyXe2yDII9cgsTisKywkLcFQrBgAKlCmT)](https://alternativeto.net/software/cloudron/)
 
 If you're seeking alternatives to Cloudron that are compatible with ARM64 architecture, several open-source platforms can help you manage and deploy applications efficiently. Below is a curated list of such tools:

@@ -1,3 +1,10 @@
+---
+title: Rocky Linux on WSL
+description: Instruções completas para instalar Rocky Linux no WSL
+category: wsl
+tags: [rocky-linux, wsl, windows10, installation]
+---
+
 # rockylinux-on-wsl
 
 Following are instructions on how to get RockyLinux installed into a Windows10 WSL distro.

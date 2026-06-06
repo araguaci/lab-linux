@@ -1,3 +1,10 @@
+---
+title: Docker Build Export WSL2 Import
+description: Processo de build, export de containers Docker e import em WSL2
+category: docker
+tags: [docker, wsl2, export, import, script]
+---
+
 #! /bin/sh -xe
 
 # run from repo root

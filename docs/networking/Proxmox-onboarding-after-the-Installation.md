@@ -1,3 +1,10 @@
+---
+title: Proxmox Onboarding Installation
+description: Guia de configuração inicial do Proxmox após instalação
+category: networking
+tags: [proxmox, virtualization, hypervisor, setup, infrastructure]
+---
+
 # Proxmox onboarding after the Installation
 
 Source: [https://utbazafar.com/posts/proxmox-onboarding/](https://utbazafar.com/posts/proxmox-onboarding/)

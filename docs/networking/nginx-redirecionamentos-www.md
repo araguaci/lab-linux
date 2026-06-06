@@ -1,4 +1,11 @@
-# Descubra Como Configurar Redirecionamentos WWW e Não-WWW no NGINX (Guia Completo e Incrível) – HomeServer.pt – Informática e Tecnologia
+---
+title: Nginx WWW Redirecionamentos
+description: Guia completo para configurar redirecionamentos WWW no Nginx
+category: networking
+tags: [nginx, reverse-proxy, redirection, www, dns]
+---
+
+# Descubra Como Configurar Redirecionamentos WWW e Não-WWW no NGINX
 
 By Home Server
 

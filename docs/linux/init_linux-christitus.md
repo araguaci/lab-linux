@@ -1,3 +1,10 @@
+---
+title: Init Linux ChrisTitus
+description: Script de inicialização Linux baseado em ChrisTitus Tech
+category: linux
+tags: [linux, setup, script, initialization, shell]
+---
+
 #!/bin/bash
 
 # amd64

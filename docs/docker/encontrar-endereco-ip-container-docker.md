@@ -1,4 +1,11 @@
-# Como Encontrar Facilmente o Endereço IP de um Container Docker em Apenas Alguns Passos! – HomeServer.pt – Informática e Tecnologia
+---
+title: Encontrar Endereço IP de Container Docker
+description: Guia prático para descobrir e inspecionar o IP de containers Docker
+category: docker
+tags: [docker, networking, container, ip, troubleshooting]
+---
+
+# Como Encontrar Facilmente o Endereço IP de um Container Docker
 
 By Home Server
 

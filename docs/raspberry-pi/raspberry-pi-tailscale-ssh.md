@@ -1,4 +1,11 @@
-# Conecte-se ao Raspberry Pi de Qualquer Lugar com Tailscale – Sem Configurações Complicadas via SSH! 🚀 – HomeServer.pt – Informática e Tecnologia
+---
+title: Raspberry Pi Tailscale SSH
+description: Acesso remoto ao Raspberry Pi com Tailscale via SSH
+category: raspberry-pi
+tags: [raspberry-pi, tailscale, ssh, remote-access, vpn]
+---
+
+# Conecte-se ao Raspberry Pi de Qualquer Lugar com Tailscale
 
 By Home Server
 

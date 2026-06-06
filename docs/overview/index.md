@@ -1,3 +1,10 @@
+---
+title: Lab Linux Home
+description: Página inicial com índice de recursos sobre Linux, Docker, WSL e infraestrutura
+category: overview
+tags: [overview, home, index, documentation]
+---
+
 # Lab Linux
 
 Bem-vindo ao **Lab Linux** - Sua documentação completa sobre Linux, Docker, WSL e infraestrutura!

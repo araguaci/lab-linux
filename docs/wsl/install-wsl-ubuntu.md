@@ -1,3 +1,10 @@
+---
+title: Install WSL Ubuntu
+description: Guia de instalação do Windows Subsystem for Linux com Ubuntu
+category: wsl
+tags: [wsl, windows, ubuntu, installation, powershell]
+---
+
 <#
 - BIOS of host machine also needs to be configured to allow hardware virtualization
 - Windows 10 Pro or otherwise is needed; Windows 10 Home Edition CANNOT get WSL

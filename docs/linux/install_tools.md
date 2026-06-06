@@ -1,3 +1,10 @@
+---
+title: Install Tools
+description: Lista de ferramentas essenciais para instalação em sistemas Linux
+category: linux
+tags: [linux, tools, installation, utilities, debian, ubuntu]
+---
+
 ───────┬──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
    1   │ ncdu \ duff \ ripgrep \ mosh \ lshw \ mtr \ fd-find \ fzf \ ranger \ zoxide \ eza \ glances \
    2   │ iotop \ coreutils \ pcp \ procps \ progress \ dnsutils \ tcpdump \ wireshark-common \ tshark \

@@ -1,3 +1,10 @@
+---
+title: Rocky Linux WSL
+description: Guia para importar Rocky Linux como distribuição WSL
+category: wsl
+tags: [wsl, rocky-linux, import, linux-distributions]
+---
+
 # Import Rocky Linux to WSL or WSL2
 
 By Lukas Magauer

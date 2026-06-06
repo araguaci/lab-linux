@@ -1,3 +1,10 @@
+---
+title: NetworkManager NMCLI Ubuntu Debian
+description: Instalação e uso do NetworkManager (NMCLI) em Ubuntu e Debian
+category: networking
+tags: [networkmanager, nmcli, ubuntu, debian, networking]
+---
+
 # Instale e use o NetworkManager (NMCLI) no Ubuntu/Debian
 
 Source: [https://pt.linux-console.net/?p=22372](https://pt.linux-console.net/?p=22372)

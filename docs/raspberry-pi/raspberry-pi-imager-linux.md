@@ -1,4 +1,11 @@
-# Install the Raspberry PI Imager on Ubuntu, Debian, Fedora and openSUSE - PragmaticLinux
+---
+title: Raspberry Pi Imager Linux
+description: Instalação do Raspberry Pi Imager em distribuições Linux
+category: raspberry-pi
+tags: [raspberry-pi, imager, ubuntu, debian, fedora, opensuse]
+---
+
+# Install the Raspberry PI Imager on Ubuntu, Debian, Fedora and openSUSE
 
 By PragmaticLinux
 

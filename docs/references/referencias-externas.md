@@ -1,4 +1,11 @@
-# Descubra Tudo Sobre Ele! – HomeServer.pt – Informática e Tecnologia
+---
+title: Referências Externas
+description: Links e referências externas úteis
+category: references
+tags: [references, external-links, resources]
+---
+
+# Referências Externas
 
 By Home Server
 

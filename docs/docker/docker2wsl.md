@@ -1,3 +1,10 @@
+---
+title: Docker Container to WSL Distro
+description: Guia para exportar containers Docker e importá-los como distribuições WSL
+category: docker
+tags: [docker, wsl, container, export, import]
+---
+
 # Docker Container to WSL Distro
 
 ```bash

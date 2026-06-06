@@ -1,3 +1,10 @@
+---
+title: IP Estático Raspberry Pi
+description: Guia para configurar endereço IP estático no Raspberry Pi
+category: raspberry-pi
+tags: [raspberry-pi, networking, ip-configuration, static-ip]
+---
+
 # Como faço para definir um endereço IP estático no Raspberry Pi? - TecnoGuia
 
 By gurinho

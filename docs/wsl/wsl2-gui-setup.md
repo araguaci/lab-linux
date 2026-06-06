@@ -1,3 +1,10 @@
+---
+title: WSL2 Complete GUI Setup
+description: Guia completo para configurar interface gráfica no WSL2
+category: wsl
+tags: [wsl2, gui, graphical-interface, setup, linux]
+---
+
 # The complete WSL2 + GUI setup. | Medium
 
 By Japheth Yates

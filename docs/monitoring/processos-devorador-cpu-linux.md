@@ -1,4 +1,11 @@
-# DESCUBRA OS PROCESSOS QUE ESTÃO A DEVORAR O SEU CPU NO LINUX! – HomeServer.pt – Informática e Tecnologia
+---
+title: Processos CPU Linux
+description: Como identificar processos que consomem CPU no Linux
+category: monitoring
+tags: [monitoring, cpu, processes, linux, performance]
+---
+
+# Processos que Consomem CPU no Linux
 
 By Home Server
 

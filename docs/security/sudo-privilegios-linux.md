@@ -1,4 +1,11 @@
-# Como Configurar Corretamente os Privilégios de Sudo no Linux: Garanta a Segurança e o Controle Total do Seu Sistema! – HomeServer.pt – Informática e Tecnologia
+---
+title: Sudo Privilégios Linux
+description: Configuração segura de privilégios sudo no Linux
+category: security
+tags: [sudo, permissions, linux, security, access-control]
+---
+
+# Configuração de Privilégios Sudo no Linux
 
 By Home Server
 

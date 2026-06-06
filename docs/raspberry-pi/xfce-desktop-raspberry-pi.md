@@ -1,4 +1,11 @@
-# Install the XFCE desktop on your Raspberry PI - PragmaticLinux
+---
+title: XFCE Desktop Raspberry Pi
+description: Instalação e configuração de XFCE no Raspberry Pi
+category: raspberry-pi
+tags: [raspberry-pi, xfce, desktop, gui, linux]
+---
+
+# Install the XFCE desktop on your Raspberry PI
 
 By PragmaticLinux
 

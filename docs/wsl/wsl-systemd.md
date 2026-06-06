@@ -1,4 +1,11 @@
 
+---
+title: WSL Systemd Setup
+description: Guia para ativar e configurar systemd no Windows Subsystem for Linux
+category: wsl
+tags: [wsl, systemd, genie, ubuntu, setup]
+---
+
 O erro `E: Unable to locate package systemd-genie` ocorre porque o pacote **`systemd-genie` não está nos repositórios padrão do Ubuntu** — ele é mantido separadamente no GitHub.
 
 Mas se você quiser **ativar o `systemd` no WSL** usando o **Genie**, aqui vai o **passo a passo oficial e atualizado**.

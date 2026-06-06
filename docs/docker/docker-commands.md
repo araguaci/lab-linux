@@ -1,4 +1,11 @@
 
+---
+title: Docker Commands
+description: Comandos essenciais do Docker para gerenciamento de containers, imagens e redes
+category: docker
+tags: [docker, containers, commands, cli]
+---
+
 # Docker Commands
 
 ## docker help

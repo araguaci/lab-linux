@@ -1,4 +1,11 @@
-# \*\*\*\*INSTALACION DE ISSABEL EN DEBIAN 12 CON ASTERISK 20\*\*\*\*\*
+---
+title: Issabel Debian 12 Asterisk
+description: Instalação do Issabel com Asterisk 20 em Debian 12
+category: voip
+tags: [issabel, asterisk, pbx, debian, 12, voip]
+---
+
+# Instalación de Issabel en Debian 12 con Asterisk 20
 
 Source: [https://forum.issabel.org/d/9826-instalacion-de-issabel-en-debian-12-con-asterisk-20](https://forum.issabel.org/d/9826-instalacion-de-issabel-en-debian-12-con-asterisk-20)
 

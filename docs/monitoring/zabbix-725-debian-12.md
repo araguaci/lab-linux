@@ -1,4 +1,11 @@
-# Instalação do Zabbix 7.2.5 no Debian 12 – HomeServer.pt – Informática e Tecnologia
+---
+title: Zabbix 7.2.5 Debian 12
+description: Guia completo para instalação do Zabbix 7.2.5 em Debian 12
+category: monitoring
+tags: [zabbix, monitoring, debian, 12, observability]
+---
+
+# Instalação do Zabbix 7.2.5 no Debian 12
 
 By Home Server
 
