@@ -17,20 +17,10 @@ defaults:
     values:
       layout: default
   - scope:
-      path: "docs/index.md"
-    values:
-      layout: default
-      permalink: /docs/
-  - scope:
-      path: "docs/*/index.md"
-    values:
-      layout: default
-      permalink: /:path/
-  - scope:
       path: "docs/**/*.md"
       exclude:
-        - "docs/index.md"
-        - "docs/*/index.md"
+        - "docs/**/index.md"
+        - "docs/**/README.md"
     values:
       layout: default
       permalink: /:path.html
