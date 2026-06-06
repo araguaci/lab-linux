@@ -2,6 +2,7 @@
 title: Networking & Infrastructure
 description: Configuração de rede, reverse proxy, servidores e infraestrutura
 layout: default
+permalink: /docs/networking/
 ---
 
 # Networking & Infrastructure 🌐

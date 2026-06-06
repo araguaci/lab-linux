@@ -2,6 +2,7 @@
 title: Linux & Administration
 description: Guias completos sobre Linux, administração de sistemas e utilidades
 layout: default
+permalink: /docs/linux/
 ---
 
 # Linux & Administration 🐧

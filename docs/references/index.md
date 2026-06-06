@@ -2,6 +2,7 @@
 title: References & External Resources
 description: Links, referências externas e recursos úteis para estudos
 layout: default
+permalink: /docs/references/
 ---
 
 # References & External Resources 📎

@@ -2,6 +2,7 @@
 title: WSL & Windows + Linux
 description: Guias para Windows Subsystem for Linux 2, distribuições e configuração
 layout: default
+permalink: /docs/wsl/
 ---
 
 # WSL & Windows + Linux 🪟 + 🐧

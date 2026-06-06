@@ -2,6 +2,7 @@
 title: Raspberry Pi
 description: Tutoriais e guias completos para Raspberry Pi
 layout: default
+permalink: /docs/raspberry-pi/
 ---
 
 # Raspberry Pi 🍓

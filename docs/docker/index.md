@@ -2,6 +2,7 @@
 title: Docker & Containers
 description: Documentação completa sobre Docker e containerização
 layout: default
+permalink: /docs/docker/
 ---
 
 # Docker & Containers 🐳

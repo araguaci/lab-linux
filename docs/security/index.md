@@ -2,6 +2,7 @@
 title: Security & Access Control
 description: Documentação sobre segurança, permissões e controle de acesso em Linux
 layout: default
+permalink: /docs/security/
 ---
 
 # Security & Access Control 🔐
