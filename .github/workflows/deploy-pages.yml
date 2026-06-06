@@ -1,12 +1,7 @@
-name: Deploy Jekyll site to GitHub Pages
+name: Build and deploy Jekyll site to GitHub Pages
 
 on:
   push:
-    branches:
-      - main
-      - master
-      - ai_main_*
-  pull_request:
     branches:
       - main
       - master
@@ -38,13 +33,10 @@ jobs:
           bundler-cache: true
 
       - name: Build with Jekyll
-        run: bundle exec jekyll build --source . --destination ./_site --config _config.yml
-        continue-on-error: true
+        run: bundle exec jekyll build --source . --destination ./_site
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
-        with:
-          path: './_site'
 
   deploy:
     environment:
