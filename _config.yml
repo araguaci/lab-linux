@@ -19,11 +19,58 @@ defaults:
   - scope:
       path: "docs/index.md"
     values:
-      permalink: /docs/index.html
+      layout: default
+      permalink: /docs/
   - scope:
-      path: "docs/*/index.md"
+      path: "docs/overview/index.md"
     values:
-      permalink: /:dir/index.html
+      layout: default
+      permalink: /docs/overview/
+  - scope:
+      path: "docs/wsl/index.md"
+    values:
+      layout: default
+      permalink: /docs/wsl/
+  - scope:
+      path: "docs/linux/index.md"
+    values:
+      layout: default
+      permalink: /docs/linux/
+  - scope:
+      path: "docs/docker/index.md"
+    values:
+      layout: default
+      permalink: /docs/docker/
+  - scope:
+      path: "docs/networking/index.md"
+    values:
+      layout: default
+      permalink: /docs/networking/
+  - scope:
+      path: "docs/monitoring/index.md"
+    values:
+      layout: default
+      permalink: /docs/monitoring/
+  - scope:
+      path: "docs/raspberry-pi/index.md"
+    values:
+      layout: default
+      permalink: /docs/raspberry-pi/
+  - scope:
+      path: "docs/voip/index.md"
+    values:
+      layout: default
+      permalink: /docs/voip/
+  - scope:
+      path: "docs/security/index.md"
+    values:
+      layout: default
+      permalink: /docs/security/
+  - scope:
+      path: "docs/references/index.md"
+    values:
+      layout: default
+      permalink: /docs/references/
 
 # Incluir arquivos markdown
 include:
