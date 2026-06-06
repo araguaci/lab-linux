@@ -1,0 +1,43 @@
+title: Lab Linux
+description: Documentação completa sobre Linux, Docker, WSL e infraestrutura
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Configurações adicionais
+markdown: kramdown
+permalink: /:categories/:title/
+
+# Diretório de documentação reorganizado
+source: .
+collections_dir: docs
+include:
+  - _config.yml
+
+# Coleções para cada categoria
+collections:
+  docker:
+    output: true
+    permalink: /docker/:name/
+  linux:
+    output: true
+    permalink: /linux/:name/
+  wsl:
+    output: true
+    permalink: /wsl/:name/
+  raspberry-pi:
+    output: true
+    permalink: /raspberry-pi/:name/
+  networking:
+    output: true
+    permalink: /networking/:name/
+  monitoring:
+    output: true
+    permalink: /monitoring/:name/
+  voip:
+    output: true
+    permalink: /voip/:name/
+  security:
+    output: true
+    permalink: /security/:name/
