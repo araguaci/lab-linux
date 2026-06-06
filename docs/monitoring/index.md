@@ -2,7 +2,6 @@
 title: Monitoring & Observability
 description: Ferramentas de monitoramento, observabilidade e diagnóstico de sistemas
 layout: default
-permalink: /docs/monitoring/
 ---
 
 # Monitoring & Observability 📊

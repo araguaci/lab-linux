@@ -10,24 +10,20 @@ markdown: kramdown
 source: .
 baseurl: /lab-linux
 
-# Índice e páginas de conteúdo
+# Defaults for all markdown files
 defaults:
   - scope:
       path: "docs"
     values:
       layout: default
   - scope:
-      path: "docs/**/index.md"
+      path: "docs/index.md"
     values:
-      layout: default
+      permalink: /docs/index.html
   - scope:
-      path: "docs/**/*.md"
-      exclude:
-        - "docs/**/index.md"
-        - "docs/**/README.md"
+      path: "docs/*/index.md"
     values:
-      layout: default
-      permalink: /:path.html
+      permalink: /:dir/index.html
 
 # Incluir arquivos markdown
 include:

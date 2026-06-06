@@ -2,7 +2,6 @@
 title: Lab Linux Overview
 description: Documentação completa sobre Linux, Docker, WSL e infraestrutura
 layout: default
-permalink: /docs/overview/
 ---
 
 # Lab Linux 🐧

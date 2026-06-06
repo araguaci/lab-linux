@@ -2,7 +2,6 @@
 title: VoIP & PBX Systems
 description: Documentação sobre sistemas de telefonia IP, Asterisk, FreePBX e Issabel
 layout: default
-permalink: /docs/voip/
 ---
 
 # VoIP & PBX Systems ☎️

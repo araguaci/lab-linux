@@ -2,7 +2,6 @@
 title: Lab Linux - Documentação Completa
 description: Documentação sobre Linux, Docker, WSL e infraestrutura
 layout: default
-permalink: /docs/
 ---
 
 # 📚 Lab Linux - Documentação Completa
