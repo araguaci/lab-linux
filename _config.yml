@@ -17,6 +17,10 @@ defaults:
     values:
       layout: default
   - scope:
+      path: "docs/**/index.md"
+    values:
+      layout: default
+  - scope:
       path: "docs/**/*.md"
       exclude:
         - "docs/**/index.md"
