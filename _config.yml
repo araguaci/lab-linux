@@ -16,15 +16,21 @@ defaults:
       path: "docs"
     values:
       layout: default
-      permalink: /:path/
+  - scope:
+      path: "docs/**/index.md"
+    values:
+      layout: default
+      permalink: /:dir/
 
 # Front matter defaults para posts
 front_matter_defaults:
   - scope:
-      path: "docs/**"
+      path: "docs/**/*.md"
+      exclude:
+        - "docs/**/index.md"
     values:
       layout: default
-      permalink: /:path/
+      permalink: /:dir/:basename.html
 
 # Incluir arquivos markdown
 include:
